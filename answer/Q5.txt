@@ -1,0 +1,1 @@
+I think the repository tries to organise the codes into folders depending on their functionality. However, the structure is a little bit too complex due to the nested folder structure.
